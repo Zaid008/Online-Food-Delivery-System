@@ -75,8 +75,7 @@ Token-based verification for password reset
 
 ##  Clone the repository
 
-git clone https://github.com/faizkhan25/Online-Food-Delivery-Systsem
-
+git clone https://github.com/Zaid008/Online-Food-Delivery-System
 cd online-food-delivery
 
 3. *Install dependencies* for each folder:
