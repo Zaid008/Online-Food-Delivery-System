@@ -143,7 +143,7 @@ Email: zaidadnan986@gmail.com
 
 GitHub: https://github.com/Zaid008
 
-LinkedIn: https://www.linkedin.com/in/faiz-khan-b047b8218
+LinkedIn: www.linkedin.com/in/zaid-adnan-9781a7215
 
 ### Screenshots
 
